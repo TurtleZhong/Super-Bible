@@ -16,17 +16,17 @@
 **相似变换**, **仿射变换**, **射影变换**
 ![](images/Q1.jpg)
 
-<span id = "2"></span>
+<span name = "2"></span>
 ### 2.Homograph 和 Fundamental Matrix 以及Essential Matrix 的区别，有几个自由度，为什么有这么多自由度，如何计算？
-<span id = "2.1"></span>
+<span name = "2.1"></span>
 #### Essential Matrix 原理与推导：
 ![](images/Q2_1.jpg)
 
-<span id = "2.2"></span>
+<span name = "2.2"></span>
 #### Essential Matrix 计算方法：
 ![](images/Q2_2.jpg)
 
-<span id = "2.3"></span>
+<span name = "2.3"></span>
 #### Homograph Matrix
 
 ### 3.视差与深度的关系?(双目视觉)
