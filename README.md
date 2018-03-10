@@ -29,4 +29,5 @@
 #### <a name = "2.3">Homograph Matrix</span>
 
 ### <a name ="3">3.视差与深度的关系?(双目视觉)</span>
+d = f*b/z
 
